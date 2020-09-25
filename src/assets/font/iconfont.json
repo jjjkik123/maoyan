@@ -1,0 +1,72 @@
+{
+  "id": "2084100",
+  "name": "猫眼",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "677569",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "688102",
+      "name": "视频 播放 影片",
+      "font_class": "shipinbofangyingpian",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "4437603",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "4550493",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7629041",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "9162725",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "11372732",
+      "name": "演出",
+      "font_class": "yanchu",
+      "unicode": "e8bf",
+      "unicode_decimal": 59583
+    },
+    {
+      "icon_id": "14157460",
+      "name": "卡",
+      "font_class": "70",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "15223954",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
